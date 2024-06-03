@@ -1,0 +1,28 @@
+
+.cliente-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.cliente-name {
+    font-size: 1.2em;
+    color: #333;
+    text-decoration: none;
+}
+
+
+.cliente-actions a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.cliente-actions button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}

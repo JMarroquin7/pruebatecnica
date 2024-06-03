@@ -1,0 +1,28 @@
+.acontainer {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.aname {
+    font-size: 1.2em;
+    color: #333;
+    text-decoration: none;
+}
+
+
+.aactions a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+
+.actions button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
